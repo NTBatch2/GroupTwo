@@ -25,5 +25,9 @@ public class Demo {
 		
 		// Try to review this one
 		System.out.println(" Any Other Updates Guys....? ");
+	     
+	    	 //i see we got it :)
+		System.out.println("We all should get 60$/h");
+	     }
 	}
-}
+
