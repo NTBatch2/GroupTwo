@@ -30,6 +30,8 @@ public class Demo {
 		System.out.println("We all should get 60$/h");
 		
 		System.out.println("Sunday");
+		
+		System.out.println("Rabia");
 	     }
 	}
 
